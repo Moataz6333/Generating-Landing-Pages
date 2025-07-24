@@ -15,6 +15,14 @@ A full-stack web application that allows users to create professional landing pa
 - Option to choose color themes for their landing page
 - Ability to upload images and select icons for a more personalized design
 
+## Views
+
+1. **Create Page**
+![alt text](image.png)
+
+2. **Preview**
+![alt text](image-1.png)
+
 ## Installation & Running
 
 ### Prerequisites
